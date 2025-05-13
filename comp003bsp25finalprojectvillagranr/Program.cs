@@ -1,6 +1,10 @@
 using comp003bsp25finalprojectvillagranr.Data;
 using Microsoft.EntityFrameworkCore;
 
+// Author: roman villagran
+// Course: COMP-003B: ASP.NET Core
+// Instructor: Jonathan Cruz
+// Purpose: Final project synthesizing MVC, Web API, EF Core, and middleware
 namespace comp003bsp25finalprojectvillagranr
 {
     public class Program
