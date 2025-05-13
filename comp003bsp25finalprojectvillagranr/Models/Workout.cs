@@ -12,7 +12,9 @@ namespace comp003bsp25finalprojectvillagranr.Models
         [Range(1, 500)]
         public int CaloriesBurned { get; set; }
 
+      
         public User User { get; set; }
+       
         public Exercise Exercise { get; set; }
     }
 }
