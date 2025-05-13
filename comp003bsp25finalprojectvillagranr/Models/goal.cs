@@ -1,6 +1,6 @@
 ﻿namespace comp003bsp25finalprojectvillagranr.Models
 {
-    public class goal
+    public class Goal
     {
         public int Id { get; set; } 
 
