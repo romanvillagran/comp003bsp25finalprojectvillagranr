@@ -1,4 +1,4 @@
-using comp003bsp25finalprojectvillagranr.Models;
+using comp003bsp25finalprojectvillagranr.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace comp003bsp25finalprojectvillagranr

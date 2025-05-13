@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using comp003bsp25finalprojectvillagranr.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace comp003bsp25finalprojectvillagranr.Models
+namespace comp003bsp25finalprojectvillagranr.Data
 {
     public class ApplicationDbContext : DbContext
     {
